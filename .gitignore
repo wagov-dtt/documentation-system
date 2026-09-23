@@ -1,0 +1,5 @@
+# IDEs data.
+.idea
+
+# Local data / secrets.
+.env
