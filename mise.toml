@@ -1,0 +1,11 @@
+[settings]
+# Enable Lockfile: https://mise.jdx.dev/dev-tools/mise-lock.html .
+lockfile = true
+
+[tools]
+gitleaks = "latest"
+just = "latest"
+node = "26"
+pnpm = "12"
+pre-commit = "latest"
+trivy = "latest"
